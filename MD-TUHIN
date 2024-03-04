@@ -128,6 +128,9 @@ http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
 http://176.119.29.52/live.ts?channelId=140&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
+http://176.119.29.52/live.ts?channelId=160&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
 http://176.119.29.52/live.ts?channelId=201&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
