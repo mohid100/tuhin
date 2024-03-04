@@ -290,8 +290,10 @@ http://176.119.29.52/live.ts?channelId=245&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",105.9X Jhakaas
+http://176.119.29.52/live.ts?channelId=121&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",107.Music B4U
 
