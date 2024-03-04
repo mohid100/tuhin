@@ -220,6 +220,7 @@ http://176.119.29.52/live.ts?channelId=166&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",66.National Geographic HD Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
+http://176.119.29.52/live.ts?channelId=176&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
 http://176.119.29.52/live.ts?channelId=164&uid=9237&deviceMac=00:1A:79:AB:DF:28
