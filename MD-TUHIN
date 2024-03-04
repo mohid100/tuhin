@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 http://176.119.29.52/live.ts?channelId=145&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News2
+http://176.119.29.52/live.ts?channelId=178&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
 http://176.119.29.52/live.ts?channelId=113&uid=9237&deviceMac=00:1A:79:AB:DF:28 
 
@@ -218,6 +221,7 @@ http://176.119.29.52/live.ts?channelId=166&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",65.National Geographic HD Hindi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",66.National Geographic HD Bangla
+http://176.119.29.52/live.ts?channelId=177&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
 http://176.119.29.52/live.ts?channelId=176&uid=9237&deviceMac=00:1A:79:AB:DF:28
