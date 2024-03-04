@@ -207,7 +207,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
 http://176.119.29.52/live.ts?channelId=151&uid=9237&deviceMac=00:1A:79:AB:DF:28 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
+http://176.119.29.52/live.ts?channelId=166&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English",63.Discovery Turbo
 
@@ -317,7 +319,7 @@ http://176.119.29.52/live.ts?channelId=245&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=121&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
-
+http://176.119.29.52/live.ts?channelId=174&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",107.Music B4U
 http://176.119.29.52/live.ts?channelId=142&uid=9237&deviceMac=00:1A:79:AB:DF:28 
@@ -326,7 +328,7 @@ http://176.119.29.52/live.ts?channelId=142&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",109.Masti
-
+http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 
 
