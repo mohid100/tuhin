@@ -263,6 +263,7 @@ http://176.119.29.52/live.ts?channelId=274&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=295&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
+http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://176.119.29.52/live.ts?channelId=278&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -297,6 +298,7 @@ http://176.119.29.52/live.ts?channelId=121&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",107.Music B4U
+http://176.119.29.52/live.ts?channelId=142&uid=9237&deviceMac=00:1A:79:AB:DF:28 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
 
