@@ -174,7 +174,7 @@ http://176.119.29.52/live.ts?channelId=139&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=152&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",55.UTV Action
-
+http://176.119.29.52/live.ts?channelId=156&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
 http://176.119.29.52/live.ts?channelId=207&uid=9237&deviceMac=00:1A:79:AB:DF:28
