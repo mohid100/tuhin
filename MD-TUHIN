@@ -136,6 +136,10 @@ http://176.119.29.52/live.ts?channelId=200&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat
 http://newtoff.padmaflix.net/tango/live.php?id=1a89bf385512&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-1
+http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 http://176.119.29.52/live.ts?channelId=208&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
