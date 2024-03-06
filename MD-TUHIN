@@ -244,6 +244,8 @@ http://176.119.29.52/live.ts?channelId=210&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=247600.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
+http://176.119.29.52/live.ts?channelId=214&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
 http://176.119.29.52/live.ts?channelId=151&uid=9237&deviceMac=00:1A:79:AB:DF:28 
@@ -282,6 +284,7 @@ http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
+http://176.119.29.52/live.ts?channelId=186&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD
 
