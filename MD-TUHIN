@@ -291,7 +291,6 @@ http://176.119.29.52/live.ts?channelId=484&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
-http://176.119.29.52/live.ts?channelId=186&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD
 http://176.119.29.52/live.ts?channelId=485&uid=9237&deviceMac=00:1A:79:AB:DF:28
