@@ -130,7 +130,7 @@ http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD3
 http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD3
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD4
 http://176.119.29.52/live.ts?channelId=396&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM SITARAY
 http://176.119.29.52/live.ts?channelId=420&uid=9237&deviceMac=00:1A:79:AB:DF:28
