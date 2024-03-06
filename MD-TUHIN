@@ -119,6 +119,21 @@ http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
 XTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun Bangla
 http://176.119.29.52/live.ts?channelId=219&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD
+http://176.119.29.52/live.ts?channelId=410&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD2
+http://176.119.29.52/live.ts?channelId=407&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD3
+http://176.119.29.52/live.ts?channelId=455&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD
+http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM SITARAY
+http://176.119.29.52/live.ts?channelId=420&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM world
+http://176.119.29.52/live.ts?channelId=424&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla",45.Travel XP HD Bangla
 http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -301,6 +316,9 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist_w1131
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", STAR SPORTS 1 Hindi10800p
+http://176.119.29.52/live.ts?channelId=295&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD 
 http://176.119.29.52/live.ts?channelId=275&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -308,12 +326,16 @@ http://176.119.29.52/live.ts?channelId=275&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=293&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
 http://176.119.29.52/live.ts?channelId=274&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
-http://176.119.29.52/live.ts?channelId=295&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
+
+#EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
@@ -362,13 +384,11 @@ http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=405&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD2
-http://176.119.29.52/live.ts?channelId=407&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD3
 http://176.119.29.52/live.ts?channelId=409&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD4
-http://176.119.29.52/live.ts?channelId=410&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD6
 http://176.119.29.52/live.ts?channelId=412&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -377,17 +397,14 @@ http://176.119.29.52/live.ts?channelId=412&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=416&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD9
-http://176.119.29.52/live.ts?channelId=420&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD11
-http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD12
-http://176.119.29.52/live.ts?channelId=424&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD14
 http://176.119.29.52/live.ts?channelId=454&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD15
-http://176.119.29.52/live.ts?channelId=455&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD20
