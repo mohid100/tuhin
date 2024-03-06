@@ -314,6 +314,9 @@ http://176.119.29.52/live.ts?channelId=290&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports",86.Sony Ten 3 HD
 http://176.119.29.52/live.ts?channelId=291&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET" Willow Xtra
+http://176.119.29.52/live.ts?channelId=287&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist_w1131844426_b596000.m3u8
 
