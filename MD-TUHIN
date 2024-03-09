@@ -322,6 +322,9 @@ http://176.119.29.52/live.ts?channelId=287&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28 
 
+#EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS-1
+http://176.119.29.52/live.ts?channelId=287&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://176.119.29.52/live.ts?channelId=278&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
