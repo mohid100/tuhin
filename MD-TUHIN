@@ -77,9 +77,6 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
 http://176.119.29.52/live.ts?channelId=193&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD3
-http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
 http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -101,9 +98,9 @@ http://prod-cdn-toff.padmaflix.net/api/star_plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat
 http://newtoff.padmaflix.net/tango/live.php?id=1a89bf385512&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-01
 http://176.119.29.52/live.ts?channelId=195&uid=9237&deviceMac=00:1A:79:AB:DF:28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
 http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
