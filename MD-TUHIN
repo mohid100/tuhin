@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
-http://padmaflix.net/tspo/?live=https://live-cdn.tsports.com/live-02/master_1920.m3u8)live-02
+http://176.119.29.52/live.ts?channelId=58&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
 http://176.119.29.52/live.ts?channelId=144&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -14,17 +15,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
-
+http://176.119.29.52/live.ts?channelId=118&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",23.71 TV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",02.Bangladesh Television CTG
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
@@ -49,7 +43,7 @@ http://bongo.padmaflix.net/bongo/bongo-movies.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
-http://bongo.padmaflix.net/bongo/my-tv.m3u8
+http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
 http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28 
@@ -57,30 +51,14 @@ http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",19.Maasranga HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",20.Channel 9 HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",22.GAZI TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla",25.SATV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla",26.Gaan Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",28.Deepto TV HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",32.Duronto TV 
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla",33.Nagorik TV 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
@@ -91,8 +69,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha-HD
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://176.119.29.52/live.ts?channelId=120&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -102,13 +78,11 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla",45.Travel XP HD Bangla
-http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
 http://176.119.29.52/live.ts?channelId=193&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD3
+http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
 http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -117,12 +91,12 @@ http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=157&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
-
+http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
 http://176.119.29.52/live.ts?channelId=160&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
-
+http://176.119.29.52/live.ts?channelId=159&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
 http://176.119.29.52/live.ts?channelId=200&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -135,6 +109,9 @@ http://newtoff.padmaflix.net/tango/live.php?id=1a89bf385512&e=.m3u8
 http://176.119.29.52/live.ts?channelId=195&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-1
 http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
+http://176.119.29.52/live.ts?channelId=218&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD
 http://176.119.29.52/live.ts?channelId=217&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
@@ -163,8 +140,6 @@ http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max sd
 http://176.119.29.52/live.ts?channelId=184&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD2 
 http://176.119.29.52/live.ts?channelId=183&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -187,7 +162,7 @@ http://176.119.29.52/live.ts?channelId=207&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=210&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
-
+http://176.119.29.52/live.ts?channelId=183&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
 http://176.119.29.52/live.ts?channelId=214&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -197,27 +172,11 @@ http://176.119.29.52/live.ts?channelId=151&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
 http://176.119.29.52/live.ts?channelId=166&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English",63.Discovery Turbo
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English",64.History Channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",65.National Geographic HD Hindi
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",66.National Geographic HD Bangla
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
-http://176.119.29.52/live.ts?channelId=176&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 http://176.119.29.52/live.ts?channelId=205&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",70.& Prive HD
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",71.AXN
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English",72.Redbull TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
 http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -227,22 +186,12 @@ http://176.119.29.52/live.ts?channelId=484&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
-
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD
 http://176.119.29.52/live.ts?channelId=485&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English",79.Discovery Investigation
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",80.Rush Channel
-
-#EXTINF:-1 tvg-logo="https://imgur.com/dJKSceQ.png" group-title"English",81.Request Movies Channel
-#EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",82.Live Sports
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T-Sports-HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
 http://176.119.29.52/live.ts?channelId=292&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
@@ -267,13 +216,8 @@ http://176.119.29.52/live.ts?channelId=275&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
 http://176.119.29.52/live.ts?channelId=293&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
 http://176.119.29.52/live.ts?channelId=274&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket-1
 http://176.119.29.52/live.ts?channelId=287&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -281,28 +225,20 @@ http://176.119.29.52/live.ts?channelId=287&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://176.119.29.52/live.ts?channelId=278&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon",95.Cartoon Network English
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon",96.Sony Yay Bangla
-
-#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon",98.Discovery Kids Hindi
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon",99.Boomerang
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon",100.Sonic Nickeloden
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon",101.Pogo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket1
+http://176.119.29.52/live.ts?channelId=267&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket2
+http://176.119.29.52/live.ts?channelId=269&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket3
+http://176.119.29.52/live.ts?channelId=270&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket4
+http://176.119.29.52/live.ts?channelId=270&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+
 http://176.119.29.52/live.ts?channelId=351&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",103.Nick Junior Hindi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.Bangla Kids 
 http://176.119.29.52/live.ts?channelId=219&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -322,5 +258,3 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",109.Masti
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
-XTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun Bangla
