@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
-http://176.119.29.52/live.ts?channelId=58&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
 http://176.119.29.52/live.ts?channelId=144&uid=9237&deviceMac=00:1A:79:AB:DF:28
