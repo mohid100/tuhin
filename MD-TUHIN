@@ -54,6 +54,20 @@ http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
+
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD1
+http://176.119.29.52/live.ts?channelId=412&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD2
+http://176.119.29.52/live.ts?channelId=407&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD3
+http://176.119.29.52/live.ts?channelId=455&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD1
+http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD2
+http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD3
+http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://176.119.29.52/live.ts?channelId=120&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
