@@ -51,12 +51,8 @@ http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha HD
-
 
 #EXTINF:-1 ,Star Jalsha
 http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
