@@ -23,7 +23,6 @@ http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",08.Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
-http://176.119.29.52/live.ts?channelId=109&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",10.Rtv
 http://176.119.29.52/live.ts?channelId=112&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -60,7 +59,7 @@ http://176.119.29.52/live.ts?channelId=120&uid=9237&deviceMac=00:1A:79:AB:DF:28
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb543d1e786c648c9cd43e62d9ef45a9f9bf53fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d564366d51bd56c63928a27f1414a2353218a9dc36bb9db4b54e7c11f5b6af3264b36ab5c6e89614c278abe545bd37dfd522d27c52522163e84b60cbd010796db55926f5ad3ef823c6c625b5e96435dfba65ea7faff5c4cdb7cdcee4e11c97a5584d314989645a485d75c80408064e51c9f93f0d88519d09bc037a853af65585d2730c1d92c92840fe4de9b6d6bce757e144d56d44bf2943a5413d36a269addeffd0fdd12c08e29806432a808ea20ee52ab58dac2237c2cdac99acc4b4043cface2aa0fd2808482fa3e32ff11931947ec011dba8c7a5c4fc866d9620f3186f4d81d8bcd57f9de992b851b7f6993eb20bf95b388eefaeb20f8749993a0ca7d2a1c12dc2264df05223afb50e0c48ead0bce6a6d0ec7bb46cd87967a38634487baedb579f2d8f68499d60237cb2f4e14b82091770c62d92c373cc423fd8833658d665dcb6473a90375b247f8b525b589d4f1037be0ff8772ed66e2b04392d712b961396e07b1d9254b0a192e87a0355b7031e86dd0fee6ad370509e7f28dd9c55033087057710499edea75d4df917053468f057634215e46cf579644d002400c2b892dd2aa08668c49747eb1e96c0b281cfcaf908f83c4c54db10db698b36861692330d7553d2f6fdcbb842b9b00427f755089751771b803574baabbc6f19cc03befdc54b8316f1121a9dd1843005e76233a939f66d25481c245ec83abb7d4e5f44ae5a3e241baad8306f668d4/185/426x240_512000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1562.ts
-http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
@@ -70,8 +69,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 http://176.119.29.52/live.ts?channelId=193&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
 http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD02
-http://176.119.29.52/live.ts?channelId=157&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
 http://176.119.29.52/live.ts?channelId=158&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
