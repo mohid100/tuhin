@@ -137,10 +137,9 @@ http://176.119.29.52/live.ts?channelId=210&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=214&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
-http://176.119.29.52/live.ts?channelId=151&uid=9237&deviceMac=00:1A:79:AB:DF:28 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1471.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
@@ -153,7 +152,7 @@ http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1555.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1596.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
 http://176.119.29.52/live.ts?channelId=292&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
@@ -214,6 +213,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1659.ts
 #EXTINF:-1 ,fashion tv5
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1691.ts
 #EXTINF:-1 ,fashion tv6
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1673.ts
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1471.ts
+
 #EXTINF:-1 ,fashion tv7
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
