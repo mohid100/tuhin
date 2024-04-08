@@ -203,17 +203,17 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",109.Masti
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla1
+#EXTINF:-1 ,fashion tv1
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1477.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla2
+#EXTINF:-1 ,fashion tv2
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1436.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla3
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1470.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla14
+#EXTINF:-1 ,fashion tv3
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1470.ts 
+#EXTINF:-1 ,fashion tv4
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1659.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla15
+#EXTINF:-1 ,fashion tv5
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1691.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla16
+#EXTINF:-1 ,fashion tv6
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1673.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla17
+#EXTINF:-1 ,fashion tv7
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
