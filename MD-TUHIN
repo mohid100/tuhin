@@ -177,10 +177,10 @@ http://176.119.29.52/live.ts?channelId=275&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=293&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
-http://176.119.29.52/live.ts?channelId=274&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=281&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket-1
-
+http://176.119.29.52/live.ts?channelId=287=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28 
 
