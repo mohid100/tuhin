@@ -91,9 +91,8 @@ http://176.119.29.52/live.ts?channelId=195&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
 http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
-http://176.119.29.52/live.ts?channelId=218&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD
-http://176.119.29.52/live.ts?channelId=217&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1365.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
