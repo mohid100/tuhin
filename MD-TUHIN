@@ -7,19 +7,15 @@ http://176.119.29.52/live.ts?channelId=118&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1338.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Shomoy TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1333.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1303.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1310.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
-http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1342.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1304.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
@@ -33,7 +29,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1316.ts
 http://176.119.29.52/live.ts?channelId=112&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1580.ts
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",12.Banglavision HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="* BDIX19",Movie Bangla TV
