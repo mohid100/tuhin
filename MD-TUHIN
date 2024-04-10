@@ -59,6 +59,8 @@ http://176.119.29.52/live.ts?channelId=411&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-2
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 ,HUM TV-3
+http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha HD
 http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
