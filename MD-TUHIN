@@ -16,6 +16,8 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1310.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1342.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1302.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1304.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
