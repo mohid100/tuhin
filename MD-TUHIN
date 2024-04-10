@@ -3,79 +3,79 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1473.ts
 http://176.119.29.52/live.ts?channelId=144&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
 http://176.119.29.52/live.ts?channelId=118&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1338.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1326.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Shomoy TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1333.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1303.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1310.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1342.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1302.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1304.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",08.Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",28.Deepto TV HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1316.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",10.Rtv
 http://176.119.29.52/live.ts?channelId=112&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",12.Banglavision HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1325.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="* BDIX19",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
 http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
 http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28 
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1318.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1323.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",22.GAZI TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1311.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla",26.Gaan Bangla
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",13.Desh TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1320.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda-TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1312.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 ,HUM TV
 http://176.119.29.52/live.ts?channelId=411&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-1
@@ -84,16 +84,16 @@ http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-3
 http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1565.ts
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha HD
 http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://176.119.29.52/live.ts?channelId=120&uid=9237&deviceMac=00:1A:79:AB:DF:28
-*
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter-10-Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb543d1e786c648c9cd43e62d9ef45a9f9bf53fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d564366d51bd56c63928a27f1414a2353218a9dc36bb9db4b54e7c11f5b6af3264b36ab5c6e89614c278abe545bd37dfd522d27c52522163e84b60cbd010796db55926f5ad3ef823c6c625b5e96435dfba65ea7faff5c4cdb7cdcee4e11c97a5584d314989645a485d75c80408064e51c9f93f0d88519d09bc037a853af65585d2730c1d92c92840fe4de9b6d6bce757e144d56d44bf2943a5413d36a269addeffd0fdd12c08e29806432a808ea20ee52ab58dac2237c2cdac99acc4b4043cface2aa0fd2808482fa3e32ff11931947ec011dba8c7a5c4fc866d9620f3186f4d81d8bcd57f9de992b851b7f6993eb20bf95b388eefaeb20f8749993a0ca7d2a1c12dc2264df05223afb50e0c48ead0bce6a6d0ec7bb46cd87967a38634487baedb579f2d8f68499d60237cb2f4e14b82091770c62d92c373cc423fd8833658d665dcb6473a90375b247f8b525b589d4f1037be0ff8772ed66e2b04392d712b961396e07b1d9254b0a192e87a0355b7031e86dd0fee6ad370509e7f28dd9c55033087057710499edea75d4df917053468f057634215e46cf579644d002400c2b892dd2aa08668c49747eb1e96c0b281cfcaf908f83c4c54db10db698b36861692330d7553d2f6fdcbb842b9b00427f755089751771b803574baabbc6f19cc03befdc54b8316f1121a9dd1843005e76233a939f66d25481c245ec83abb7d4e5f44ae5a3e241baad8306f668d4/185/426x240_512000/index.m3u8
 
