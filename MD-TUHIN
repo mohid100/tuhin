@@ -32,7 +32,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1325.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="* BDIX19",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
 http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
@@ -183,10 +183,9 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 ,fashion tv1
-
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
 #EXTINF:-1 ,fashion tv2
-
 #EXTINF:-1 ,fashion tv3
-
 #EXTINF:-1 ,fashion tv7
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#
