@@ -14,7 +14,7 @@ http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1310.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1342.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1302.ts
@@ -45,7 +45,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1323.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla",26.Gaan Bangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",13.Desh TV
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1320.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda-TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1312.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
@@ -57,7 +57,7 @@ http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-2
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-3
-http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 http://tv.univisionlive.net:8880/live/pfjahid/pfjahid/1565.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
@@ -69,7 +69,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1353.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1354.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha HD
-http://176.119.29.52/live.ts?channelId=116&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1391.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
@@ -79,7 +79,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1394.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
 http://176.119.29.52/live.ts?channelId=159&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1485.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-01
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1566.ts
 http://176.119.29.52/live.ts?channelId=195&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -93,20 +93,19 @@ http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD
 http://176.119.29.52/live.ts?channelId=140&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
-http://176.119.29.52/live.ts?channelId=174&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.zing
-http://176.119.29.52/live.ts?channelId=219&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1563.ts
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",Colors Bangla Cinema(Flixhub)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",44.Zee Bangla Cinema
 http://176.119.29.52/live.ts?channelId=119&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
-http://tv.univisionlive.net:8880/live/pfjahid/pfjahid/1485.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max sd
-http://176.119.29.52/live.ts?channelId=184&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
 http://176.119.29.52/live.ts?channelId=196&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
@@ -127,7 +126,7 @@ http://176.119.29.52/live.ts?channelId=214&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
-http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
 http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
