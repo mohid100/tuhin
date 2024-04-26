@@ -8,11 +8,12 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1338.ts
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Shomoy TV
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1333.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1310.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1303.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
@@ -87,9 +88,10 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1365.ts
 http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD
 http://176.119.29.52/live.ts?channelId=140&uid=9237&deviceMac=00:1A:79:AB:DF:28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HDHD
+http://176.119.29.52/live.ts?channelId=174&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.zing
-
+http://176.119.29.52/live.ts?channelId=219&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",Colors Bangla Cinema(Flixhub)
@@ -100,7 +102,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max sd
-
+http://176.119.29.52/live.ts?channelId=184&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
 http://176.119.29.52/live.ts?channelId=196&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
