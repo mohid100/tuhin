@@ -29,7 +29,9 @@ http://176.119.29.52/live.ts?channelId=112&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1306.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
+http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
 http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
