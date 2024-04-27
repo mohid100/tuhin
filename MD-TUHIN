@@ -75,7 +75,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1391.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
 http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1394.ts
+http://176.119.29.52/live.ts?channelId=161&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
 http://176.119.29.52/live.ts?channelId=159&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
@@ -86,6 +86,7 @@ http://176.119.29.52/live.ts?channelId=195&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
 http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
+http://176.119.29.52/live.ts?channelId=208&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD
 http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1365.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
