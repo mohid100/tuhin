@@ -42,7 +42,7 @@ http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1308.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",22.GAZI TV
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1311.ts
+https://live-cdn.tsports.com/live-01/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla",26.Gaan Bangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",13.Desh TV
 
