@@ -114,7 +114,7 @@ http://176.119.29.52/live.ts?channelId=207&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood
 http://176.119.29.52/live.ts?channelId=210&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
-http://176.119.29.52/live.ts?channelId=214&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=213&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
 
@@ -128,7 +128,7 @@ http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1555.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
 http://176.119.29.52/live.ts?channelId=292&uid=9237&deviceMac=00:1A:79:AB:DF:28
@@ -178,10 +178,10 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 ,fashion tv1
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1305.ts
+
 #EXTINF:-1 ,fashion tv2
 #EXTINF:-1 ,fashion tv3
-http://tv.univisionlive.net:8880/live/padmaonline1/padmaonline1/1562.ts
+
 #EXTINF:-1 ,fashion tv7
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
