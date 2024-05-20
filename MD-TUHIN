@@ -133,7 +133,7 @@ http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=199&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
-http://176.119.29.52/live.ts?channelId=292&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=262&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
 http://176.119.29.52/live.ts?channelId=289&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
@@ -167,10 +167,11 @@ http://176.119.29.52/live.ts?channelId=301=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://176.119.29.52/live.ts?channelId=278&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+
-http://176.119.29.52/live.ts?channelId=351&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
+http://176.119.29.52/live.ts?channelId=256&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+1
+http://176.119.29.52/live.ts?channelId=259&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",105.9X Jhakaas
-
+http://176.119.29.52/live.ts?channelId=351&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",107.Music B4U
 http://176.119.29.52/live.ts?channelId=142&uid=9237&deviceMac=00:1A:79:AB:DF:28 
