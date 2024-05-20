@@ -24,7 +24,7 @@ http://176.119.29.52/live.ts?channelId=112&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="* BDIX19",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
-http://176.119.29.52/live.ts?channelId=109&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=109&uid=9238&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
@@ -100,7 +100,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax sd
-http://176.119.29.52/live.ts?channelId=184&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=185&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
 http://176.119.29.52/live.ts?channelId=196&uid=9237&deviceMac=00:1A:79:AB:DF:28
