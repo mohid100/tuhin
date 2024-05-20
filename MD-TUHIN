@@ -25,7 +25,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
 http://176.119.29.52/live.ts?channelId=109&uid=9238&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
-
+http://176.119.29.52/live.ts?channelId=262&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
 http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
@@ -129,10 +129,10 @@ http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
-http://176.119.29.52/live.ts?channelId=199&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
-http://176.119.29.52/live.ts?channelId=262&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
 http://176.119.29.52/live.ts?channelId=289&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
