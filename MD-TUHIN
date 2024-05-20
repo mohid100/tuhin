@@ -130,6 +130,7 @@ http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
+http://176.119.29.52/live.ts?channelId=199&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
