@@ -6,7 +6,8 @@ http://176.119.29.52/live.ts?channelId=144&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Shomoy TV
-http://176.119.29.52/live.ts?channelId=115&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=115&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
 http://176.119.29.52/live.ts?channelId=107&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
@@ -14,7 +15,8 @@ http://176.119.29.52/live.ts?channelId=99&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
 http://176.119.29.52/live.ts?channelId=100&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
-http://176.119.29.52/live.ts?channelId=95&uid=9237&deviceMac=00:1A:79:AB:DF:28
+http://176.119.29.52/live.ts?channelId=95&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 http://176.119.29.52/live.ts?channelId=87&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
@@ -37,8 +39,7 @@ http://176.119.29.52/live.ts?channelId=104&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
 http://176.119.29.52/live.ts?channelId=80&uid=9238&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
-http://176.119.29.52/live.ts?channelId=86&uid=9237&deviceMac=00:1A:79:AB:DF:28
-http://176.119.29.52/live.ts?channelId=262&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",14.My TV BD
 http://176.119.29.52/live.ts?channelId=106&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
@@ -64,13 +65,11 @@ http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 ,HUM TV-3
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.akash Aath
 http://176.119.29.52/live.ts?channelId=79&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+http://176.119.29.52/live.ts?channelId=92&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://176.119.29.52/live.ts?channelId=120&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter-10-Bangla
@@ -199,7 +198,7 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
 #EXTINF:-1 ,fashion tv1
-http://176.119.29.52/live.ts?channelId=92&uid=9237&deviceMac=00:1A:79:AB:DF:28
+
 #EXTINF:-1 ,fashion tv2
 http://176.119.29.52/live.ts?channelId=73&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
