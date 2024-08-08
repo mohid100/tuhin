@@ -94,9 +94,11 @@ http://176.119.29.52/live.ts?channelId=193&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
 http://176.119.29.52/live.ts?channelId=188&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
-
+http://176.119.29.52/live.ts?channelId=160&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
 http://176.119.29.52/live.ts?channelId=158&uid=9236&deviceMac=00:1A:79:AB:DF:28#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD1
+http://176.119.29.52/live.ts?channelId=200&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
 http://176.119.29.52/live.ts?channelId=201&uidai =9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-01
@@ -113,7 +115,7 @@ http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=140&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HDHD
-
+http://176.119.29.52/live.ts?channelId=121&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.zing
 http://176.119.29.52/live.ts?channelId=219&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
@@ -124,9 +126,12 @@ http://176.119.29.52/live.ts?channelId=119&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
-
+http://176.119.29.52/live.ts?channelId=157&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax sd
-http://176.119.29.52/live.ts?channelId=185&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+http://176.119.29.52/live.ts?channelId=184&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax hd
+http://176.119.29.52/live.ts?channelId=186&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
 http://176.119.29.52/live.ts?channelId=196&uid=9237&deviceMac=00:1A:79:AB:DF:28#
@@ -134,28 +139,31 @@ http://176.119.29.52/live.ts?channelId=196&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=197&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies
 http://176.119.29.52/live.ts?channelId=152&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies+
+http://176.119.29.52/live.ts?channelId=154&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",55.UTV Action
 http://176.119.29.52/live.ts?channelId=156&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
 http://176.119.29.52/live.ts?channelId=207&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood
-http://176.119.29.52/live.ts?channelId=210&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+http://176.119.29.52/live.ts?channelId=209&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
 http://176.119.29.52/live.ts?channelId=213&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
-
+http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
-
+http://176.119.29.52/live.ts?channelId=166&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
-
+http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
+http://176.119.29.52/live.ts?channelId=175&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
 http://176.119.29.52/live.ts?channelId=189&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
-
+http://176.119.29.52/live.ts?channelId=177&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
 
@@ -207,7 +215,7 @@ http://176.119.29.52/live.ts?channelId=153&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=172&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 ,fashion tv1
-
+http://176.119.29.52/live.ts?channelId=143&uid=9237&deviceMac=00:1A:79:AB:DF:28# 
 #EXTINF:-1 ,fashion tv2
 http://176.119.29.52/live.ts?channelId=73&uid=9237&deviceMac=00:1A:79:AB:DF:28
 
