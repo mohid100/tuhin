@@ -72,6 +72,8 @@ http://176.119.29.52/live.ts?channelId=422&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=380&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 ,HUM TV-5
 http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTINF:-1 ,HUM TV-6
+http://176.119.29.52/live.ts?channelId=263&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.akash Aath
 http://176.119.29.52/live.ts?channelId=79&uid=9237&deviceMac=00:1A:79:AB:DF:28#
