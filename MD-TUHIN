@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
-http://176.119.29.52/live.ts?channelId=50&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+#EXTINF:-1 ,kolkata TIME NEWS
+http://176.119.29.52/live.ts?channelId=108&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+#EXTINF:-1 ,zee ২৪ ঘন্টা 
+http://176.119.29.52/live.ts?channelId=78&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News-1
 http://176.119.29.52/live.ts?channelId=118&uid=9237&deviceMac=00:1A:79:AB:DF:28#
@@ -227,13 +229,11 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 ,fashion tv7
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-#EXTINF:-1 ,kolkata TIME NEWS
-http://176.119.29.52/live.ts?channelId=108&uid=9237&deviceMac=00:1A:79:AB:DF:28#
-#EXTINF:-1 ,zee ২৪ ঘন্টা 
-http://176.119.29.52/live.ts?channelId=78&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV1
 http://176.119.29.52/live.ts?channelId=144&uid=9237&deviceMac=00:1A:79:AB:DF:28
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
+http://176.119.29.52/live.ts?channelId=50&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
