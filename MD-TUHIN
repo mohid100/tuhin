@@ -50,7 +50,7 @@ http://176.119.29.52/live.ts?channelId=86&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=103&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
-
+http://176.119.29.52/live.ts?channelId=85&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",22.GAZI-TV HD
@@ -80,7 +80,7 @@ http://176.119.29.52/live.ts?channelId=393&uid=9237&deviceMac=00:1A:79:AB:DF:28
 http://176.119.29.52/live.ts?channelId=263&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.akash Aath
-
+http://176.119.29.52/live.ts?channelId=113&uid=9237&deviceMac=00:1A:79:AB:DF:28
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 http://176.119.29.52/live.ts?channelId=92&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
@@ -114,7 +114,7 @@ http://176.119.29.52/live.ts?channelId=305=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
 http://176.119.29.52/live.ts?channelId=208&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD
-http://176.119.29.52/live.ts?channelId=208&uid=9237&deviceMac=00:1A:79:AB:DF:28#
+http://176.119.29.52/live.ts?channelId=217&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 http://176.119.29.52/live.ts?channelId=191&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD
