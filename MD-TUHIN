@@ -175,7 +175,7 @@ http://176.119.29.52/live.ts?channelId=212&uid=9237&deviceMac=00:1A:79:AB:DF:28#
 http://176.119.29.52/live.ts?channelId=360=9237&deviceMac=00:1A:79:AB:DF:28#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English",72.Redbull TV
-http://127.0.0.1:57461/video/aHR0cHM6Ly9yYm1uLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS81OTA5NjQvQm9SQi1BVC9tYXN0ZXJfMzM2MC5tM3U4.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD1
 
