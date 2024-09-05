@@ -84,7 +84,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun-Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha-HD
-
+http://103.89.248.14:8082/Star_jalsha/tracks-v1a1/mono.m3u8?token=a021f63ab1fa21a8007e78fd10e30f0db3be93fb-5b03038953a657dcea9c3b46ea550f2b-1725507421-1725496621
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
@@ -128,7 +128,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax sd
-
+http://103.89.248.14:8082/SONY-MAX/tracks-v1a1/mono.m3u8?token=d241d9ff19c47080b924891fdce2e751c17b4a17-4adf0a79fc5d4fc2d217b991b1283b13-1725507648-1725496848
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax hd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
