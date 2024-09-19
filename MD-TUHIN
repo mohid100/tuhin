@@ -1,6 +1,5 @@
 #EXTINF:-1 ,kolkata TIME NEWS
 #EXTINF:-1 ,zee ২৪ ঘন্টা
-https://pstvplaylive.online/ps_sports/ps_play.m3u8?id=SlvNZ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
@@ -164,9 +163,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports",86.Sony Ten 3 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
-http://103.89.248.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=6c7df19678190c1d85dfe5e6acc947b49f25a4f2-1b74cdf5ec75a088af3a376a5bebccc3-1726720018-1726709218
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD
-http://103.89.248.14:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=c7b3c02ead97d2e469fc4e9d75fb03f6bdfb6011-67be34fed51d6318dd80ed8aa77c4e82-1726719735-1726708935
+http://103.89.248.26:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=475f6fcc5f70a0e8b529f4201a24aebe4858e193-fd86136e2c34a625009798995219af92-1726733543-1726722743
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", STAR SPORTS 1 Hindi10800p
@@ -177,6 +176,7 @@ http://103.89.248.14:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=c7b3c02ead97d2e46
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/ec8605e5-5a87-42cb-8cc0-53c51a897fb2/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket-1
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
