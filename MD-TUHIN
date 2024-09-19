@@ -166,7 +166,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD
-http://103.89.248.26:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=475f6fcc5f70a0e8b529f4201a24aebe4858e193-fd86136e2c34a625009798995219af92-1726733543-1726722743
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2-avc1_2000000=4-3066897469420000.mp4
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", STAR SPORTS 1 Hindi10800p
