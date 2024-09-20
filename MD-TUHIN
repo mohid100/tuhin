@@ -1,6 +1,6 @@
 #EXTINF:-1 ,kolkata TIME NEWS
 #EXTINF:-1 ,zee ২৪ ঘন্টা
-http://103.89.248.10:8082/1LIVE/tracks-v1a1/mono.m3u8?token=6304fceaba05e8dae052d06e0d9d9469947c971b-8db2d141ff385af1b61d4b398030e0de-1726808700-1726797900
+http://103.89.248.26:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=f91535ef6252fe3b36b81724fef9b03ca3c85925-12d59d70526f9bcb6ad83d817cb6e419-1726819036-1726808236
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
