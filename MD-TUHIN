@@ -1,7 +1,9 @@
 #EXTINF:-1 ,kolkata TIME NEWS
 http://103.89.248.26:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=8122dc32ad74283f2544e0ecf5ce7db509f4ee26-b658a62f9650efeb4a0a5fd12bc53914-1726819261-1726808461
+
 #EXTINF:-1 ,zee ২৪ ঘন্টা
-http://103.89.248.26:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=274e9747800b045cbf69cf81b846f362a42c3da4-d51c0b444cb27f98f566a78c9f99f19e-1726831985-1726821185
+http://103.89.248.10:8082/1LIVE/tracks-v1a1/mono.m3u8?token=9248313c48e0c3a808daa25507b8c84b35d24de5-7ea38bc4d0eeda6af97a3402aeabd12d-1726833343-1726822543
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News-1
 http://103.89.248.10:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=1493a48963f23f469cc9a96db64be39aa3eaac0c-f4b162cf9d680665371b282a62cfffee-1726820369-1726809569
 
