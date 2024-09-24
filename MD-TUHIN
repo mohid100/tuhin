@@ -90,8 +90,8 @@ http://46.250.234.136:8080/live/2233891/2233891/45.ts
 http://46.250.234.136:8080/live/2233891/2233891/3692.ts
 #EXTINF:-1 ,time news
 http://46.250.234.136:8080/live/2233891/2233891/3691.ts
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,india tv
+http://46.250.234.136:8080/live/2233891/2233891/9360.ts
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD
 
 
@@ -101,33 +101,41 @@ http://46.250.234.136:8080/live/2233891/2233891/3691.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.akash Aath
 http://46.250.234.136:8080/live/2233891/2233891/3578.ts
-#EXTINF:-1 ,sony-aath
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
 http://46.250.234.136:8080/live/2233891/2233891/2138.ts
-#EXTINF:-1 ,sony-aath-2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (2)
 http://46.250.234.136:8080/live/2233891/2233891/9382.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD1
+http://46.250.234.136:8080/live/2233891/2233891/9347.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
+http://46.250.234.136:8080/live/2233891/2233891/11.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD-2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=352400.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter-10-Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb543d1e786c648c9cd43e62d9ef45a9f9bf53fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d564366d51bd56c63928a27f1414a2353218a9dc36bb9db4b54e7c11f5b6af3264b36ab5c6e89614c278abe545bd37dfd522d27c52522163e84b60cbd010796db55926f5ad3ef823c6c625b5e96435dfba65ea7faff5c4cdb7cdcee4e11c97a5584d314989645a485d75c80408064e51c9f93f0d88519d09bc037a853af65585d2730c1d92c92840fe4de9b6d6bce757e144d56d44bf2943a5413d36a269addeffd0fdd12c08e29806432a808ea20ee52ab58dac2237c2cdac99acc4b4043cface2aa0fd2808482fa3e32ff11931947ec011dba8c7a5c4fc866d9620f3186f4d81d8bcd57f9de992b851b7f6993eb20bf95b388eefaeb20f8749993a0ca7d2a1c12dc2264df05223afb50e0c48ead0bce6a6d0ec7bb46cd87967a38634487baedb579f2d8f68499d60237cb2f4e14b82091770c62d92c373cc423fd8833658d665dcb6473a90375b247f8b525b589d4f1037be0ff8772ed66e2b04392d712b961396e07b1d9254b0a192e87a0355b7031e86dd0fee6ad370509e7f28dd9c55033087057710499edea75d4df917053468f057634215e46cf579644d002400c2b892dd2aa08668c49747eb1e96c0b281cfcaf908f83c4c54db10db698b36861692330d7553d2f6fdcbb842b9b00427f755089751771b803574baabbc6f19cc03befdc54b8316f1121a9dd1843005e76233a939f66d25481c245ec83abb7d4e5f44ae5a3e241baad8306f668d4/185/426x240_512000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun-Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star-Jalsha-HD
-
+http://46.250.234.136:8080/live/2233891/2233891/9161.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
-
+#EXTINF:-1 ,semro tv
+http://46.250.234.136:8080/live/2233891/2233891/1509.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
-
+http://46.250.234.136:8080/live/2233891/2233891/2799.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
+http://46.250.234.136:8080/live/2233891/2233891/226.ts
+#EXTINF:-1 ,kall
+http://46.250.234.136:8080/live/2233891/2233891/180.ts
+#EXTINF:-1 ,pall
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
-
+http://46.250.234.136:8080/live/2233891/2233891/1506.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD1
-
-
+http://46.250.234.136:8080/live/2233891/2233891/123.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-01
@@ -135,7 +143,9 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee anmol
-
+http://46.250.234.136:8080/live/2233891/2233891/17.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD1
+http://46.250.234.136:8080/live/2233891/2233891/996.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV-HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
@@ -143,24 +153,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_2084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD-1
-
+http://46.250.234.136:8080/live/2233891/2233891/9.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HDHD
-
+http://46.250.234.136:8080/live/2233891/2233891/5360.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.zing
-
+http://46.250.234.136:8080/live/2233891/2233891/6.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",Colors Bangla Cinema(Flixhub)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",44.Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
-
+http://46.250.234.136:8080/live/2233891/2233891/4.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax sd
-
+http://46.250.234.136:8080/live/2233891/2233891/2800.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax hd
-
+http://46.250.234.136:8080/live/2233891/2233891/9474.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
@@ -168,14 +178,25 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglaci
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies+
-
+http://46.250.234.136:8080/live/2233891/2233891/108.ts
+#EXTINF:-1 ,zeeanmol sinema
+http://46.250.234.136:8080/live/2233891/2233891/15.ts
+#EXTINF:-1 ,comedy king
+http://46.250.234.136:8080/live/2233891/2233891/106.ts
+#EXTINF:-1 ,Bollywood prime
+http://46.250.234.136:8080/live/2233891/2233891/172.ts
+#EXTINF:-1 ,bollywood hd
+http://46.250.234.136:8080/live/2233891/2233891/174.ts
+#EXTINF:-1 ,vojpuri movie
+http://46.250.234.136:8080/live/2233891/2233891/197.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",55.UTV Action
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
-
-
+http://46.250.234.136:8080/live/2233891/2233891/190.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD0
+http://46.250.234.136:8080/live/2233891/2233891/1.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
@@ -226,7 +247,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+1
+#EXTINF:-1 tvg-logo="httpts//i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+1
 https://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",105.9X Jhakaas
 
