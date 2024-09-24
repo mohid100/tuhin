@@ -202,11 +202,11 @@ http://46.250.234.136:8080/live/2233891/2233891/4.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax sd
-http://46.250.234.136:8080/live/2233891/2233891/2800.ts
+http://46.250.234.136:8080/live/2233891/2233891/9440.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.SonyMax hd
 http://46.250.234.136:8080/live/2233891/2233891/9474.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 1 4K
-
+http://46.250.234.136:8080/live/2233891/2233891/42.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies
@@ -226,9 +226,9 @@ http://46.250.234.136:8080/live/2233891/2233891/197.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",55.UTV Action
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
-http://46.250.234.136:8080/live/2233891/2233891/190.ts
+http://46.250.234.136:8080/live/2233891/2233891/2.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood
-
+http://46.250.234.136:8080/live/2233891/2233891/15.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD0
 http://46.250.234.136:8080/live/2233891/2233891/1.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD1
