@@ -105,7 +105,7 @@ http://46.250.234.136:8080/live/2233891/2233891/2138.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (2)
 http://46.250.234.136:8080/live/2233891/2233891/9382.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD1
-http://46.250.234.136:8080/live/2233891/2233891/9347.ts
+http://46.250.234.136:8080/live/2233891/2233891/121.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
@@ -122,7 +122,7 @@ http://46.250.234.136:8080/live/2233891/2233891/118.ts
 http://46.250.234.136:8080/live/2233891/2233891/9161.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
 #EXTINF:-1 ,semro tv
-http://46.250.234.136:8080/live/2233891/2233891/1509.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD2
 http://46.250.234.136:8080/live/2233891/2233891/2799.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD5
