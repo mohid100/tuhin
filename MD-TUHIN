@@ -26,8 +26,6 @@ http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 http://46.250.234.136:8080/live/2233891/2233891/167.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
 http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="* Bangla",Sangsad TV
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="* Bangla",BTV WORLD
 http://46.250.234.136:8080/live/2233891/2233891/75.ts
@@ -246,9 +244,13 @@ http://46.250.234.136:8080/live/2233891/2233891/9359.ts
 #EXTINF:-1 ,expoler Africa 
 http://46.250.234.136:8080/live/2233891/2233891/9358.ts
 #EXTINF:-1 ,net geo Bangla 
-#geoINF:-1 ,net geo-
-#EXTINF:-1 ,net geo
-#EXTINF:-1 ,net geo
+http://46.250.234.136:8080/live/2233891/2233891/2065.ts
+#geoINF:-1 ,net geo-eng
+http://46.250.234.136:8080/live/2233891/2233891/2833.ts
+#EXTINF:-1 ,net geo hind
+http://46.250.234.136:8080/live/2233891/2233891/163.ts
+#EXTINF:-1 ,bbc earth
+http://46.250.234.136:8080/live/2233891/2233891/129.ts
 #EXTINF:-1 ,
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
