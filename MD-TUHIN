@@ -131,13 +131,13 @@ http://46.250.234.136:8080/live/2233891/2233891/180.ts
 #EXTINF:-1 ,pall
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD3
-
+http://46.250.234.136:8080/live/2233891/2233891/1504.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD2
 http://46.250.234.136:8080/live/2233891/2233891/1506.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD1
 http://46.250.234.136:8080/live/2233891/2233891/123.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
-
+http://46.250.234.136:8080/live/2233891/2233891/2838.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat-2
@@ -301,13 +301,13 @@ https://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",105.9X Jhakaas
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",107.Music B4U
-
+http://46.250.234.136:8080/live/2233891/2233891/1508.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",109.Masti
-
+http://46.250.234.136:8080/live/2233891/2233891/9363.ts
 #EXTINF:-1 ,INDIAN MUSIk
-
+http://46.250.234.136:8080/live/2233891/2233891/27.ts
 #EXTINF:-1 ,9xm
 
 #EXTINF:-1 ,movie Jeetega 2024
