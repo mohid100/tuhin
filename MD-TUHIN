@@ -185,8 +185,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD
-http://46.250.234.136:8080/live/2233891/2233891/4154.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD1
+https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD2
+https://www.diplomazonebd.com/cors?url=http://103.190.85.38/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD3
+https://bdiptv24.com/sports/m3u8.php/asportshd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", STAR SPORTS 1 Hindi10800p
@@ -194,16 +198,23 @@ http://46.250.234.136:8080/live/2233891/2233891/4154.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.tnt sports-1
+https://bdiptv24.com/sports/m3u8.php/bbtsp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.tnt sports-2
+https://bdiptv24.com/sports/m3u8.php/bbtsp2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.tnt sports-3
+https://bdiptv24.com/sports/m3u8.php/bbtsp3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.tnt sports-4
+https://bdiptv24.com/sports/m3u8.php/bbtsp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/ec8605e5-5a87-42cb-8cc0-53c51a897fb2/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket-1
-
+https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
-
+https://bdiptv24.com/sports/m3u8.php/ptvpk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick HD+1
@@ -219,51 +230,6 @@ https://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 #EXTINF:-1 ,INDIAN MUSIk
 
 #EXTINF:-1 ,9xm
-
-#EXTINF:-1 ,movie Jeetega 2024
-http://103.166.193.10/ftp/backup/Movie/Bollywood/2024/Crakk:%20Jeetega%e2%80%a6%20Toh%20Jiyegaa/Crakk%20Jeetega%e2%80%a6%20Toh%20Jiyegaa.mkv
-#EXTINF:-1 ,movie Maidaan 2024
-http://103.166.193.10/ftp/backup/Movie/Bollywood/2024/Maidaan/Maidaan%202024%20Hindi%20WEB-DL%201080p.mkv
-#EXTINF:-1 ,movie Yodha 2024
-http://103.166.193.10/ftp/backup/Movie/Bollywood/2024/%20Yodha%20(2024)%20Hindi%20WEB-DL%201080p/%20Yodha%20(2024)%20Hindi%20WEB-DL%201080p.mkv
-#EXTINF:-1 ,movie Miller Captain tamil 2024
-http://103.166.193.10/ftp/backup/Movie/Tamil/2024/Captain%20Miller%20/Captain%20Miller%20(2024)%20Dual%20Hi-Clean-Tam%20WEB-DL%201080p.mkv
-#EXTINF:-1 ,movie guntur Karam tamil 2024
-http://103.166.193.10/ftp/backup/Movie/Tamil/2024/Guntur%20Karam%20/Guntur%20Karam%202024%20Dual%20ORG%201080p.mkv
-#EXTINF:-1 ,movie Waltair Veerayya tamil 2023
-http://103.166.193.10/ftp/backup/Movie/Tamil/2023/%20Waltair%20Veerayya%20(2023)%20Hindi-Clean%20WEB-DL%201080p/Waltair%20Veerayya%20(2023)%20Hindi-Clean%20WEB-DL%201080p.mkv
-#EXTINF:-1 ,movie Kabzaa tamil 2023
-http://103.166.193.10/ftp/backup/Movie/Tamil/2023/Kabzaa/Kabzaa.(2023).Dual.ORG.1080p.mkv
-#EXTINF:-1 ,movie Iraivan tamil 2023
-http://103.166.193.10/ftp/backup/Movie/Tamil/2023/Iraivan/Iraivan%20(2023)%20Dual%20ORG%201080p.mkv
-#EXTINF:-1 ,movie Extra Ordinary Man tamil 2023
-http://103.166.193.10/ftp/backup/Movie/Tamil/2023/Extra%20Ordinary%20Man%20/Extra%20Ordinary%20Man%20(2023)%20Telugu%201080p%20HEVC.mkv
-#EXTINF:-1 , mohanagar2 bangla 2022
-http://103.166.193.10/ftp/backup/Movie/Bengali/2022/mohanagar%202/Mohanagar+Season+2+2023+Bangla+WEB+Series+720p+WEB-DL+2.1GB.mp4
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-
-
-
 
 	
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2024",109.Dying in plain singh 
