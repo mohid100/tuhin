@@ -1,7 +1,3 @@
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 
 
@@ -138,7 +134,7 @@
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1xMvZVFmdD7lK8iExslZvH276vaWM0VaBA&usqp=CAU", group-title="馃敶 T20 World Cup", GTV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1xMvZVFmdD7lK8iExslZvH276vaWM0VaBA&usqp=CAU", group-title="T20 World Cup", GTV HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladeshi",-Gazi TV-ASIA CUP
 
@@ -162,7 +158,7 @@
 
 #EXTINF:-1 tvg-id="starsports3me="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",Star Sports 3 HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HkX-3Xsavnad2qydXFRElQoefbCIINOh_Q&usqp=CAU", group-title="馃敶 T20 World Cup", T20-BPL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HkX-3Xsavnad2qydXFRElQoefbCIINOh_Q&usqp=CAU", group-title="T20 World Cup", T20-BPL
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/fifa-2022.png"group-title="BANGLA",FIFA 2022
 
@@ -225,7 +221,7 @@
 
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",TR beIN sports 4 HD
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU" group-title="鈿? BANGLA ",Colors-Bangla
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU" group-title="BANGLA ",Colors-Bangla
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla(Flixhub)
 
@@ -356,7 +352,7 @@
 
 #EXTINF: -1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="鈿? BANGLA ",HBO
 
-#EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="鈿? BANGLA ",Bhojpuri-song
+#EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="BANGLA ",Bhojpuri-song
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/9x-jalwa.png"group-title="MUSIC",9x jalwa
 
@@ -373,7 +369,7 @@
 
 #EXTINF:-1 group-title="TIVIMATE (FREEMIUM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",MTV HD (INDIA)
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnt3nOya1TXtMPGS2nPTvsLNfU6FmovYtRQ&usqp=CAU", group-title="鈿? BANGLA ", Sangeet Bangla
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnt3nOya1TXtMPGS2nPTvsLNfU6FmovYtRQ&usqp=CAU", group-title=" BANGLA ", Sangeet Bangla
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(Flixhub)
 
@@ -1124,9 +1120,82 @@ http://103.166.193.10/ftp/backup/Movie/Hollywood/2021/the%20Guilty/The%20Guilty%
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2021",109.118
 http://103.166.193.10/ftp/backup/Movie/Hollywood/2021/the%20little%20things/The.Little.Things.2021.1080p.WEBRip.x264-RARBG.mp4
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.1
-
-
-
-
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/Death%20of%20Me%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20x264/Death%20of%20Me%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20x264.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.2
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/GREYHOUND/Greyhound%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.3 
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/Jim%20Button%20and%20the%20Wild%2013%20/Jim%20Button%20and%20the%20Wild%2013%20(Jim%20Knopf%20und%20die%20Wilde%2013)%20(2020)%201080p%20WEBDL.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.4
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/Love%20and%20Monsters/Love%20and%20Monsters%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.5
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/Monster%20Run%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20x264/Monster%20Run%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20x264.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.6
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/News%20of%20the%20World%20(2020)%201080p%20WEBRip/News%20of%20the%20World%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.7
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/The%20Banker%20(2020)%20(Hindi%20&%20English)%20720p%20HDRip/The%20Banker%20(2020)%20(Hindi%20&%20English)%20720p%20HDRip.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.8
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/The%20Last%20Frontier/The%20Last%20Frontier%20(Podolskiye%20kursanty)%20(2020)%201080p%20BluRay.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2020",109.9
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2020/The%20Outpost%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20AAC2.0%20x264/The%20Outpost%20(2020)%201080p%20WEB-DL%20Multi%20Audio%20AAC2.0%20x264.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.1
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/I.See.You/I.See.You.2019.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.2
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/Little%20Women%20(2019)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Little.Women.2019.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.3
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/Official%20Secrets%20(2019)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.LT%5d/Official.Secrets.2019.720p.WEBRip.x264-%5bYTS.LT%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.4
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/Richard%20Jewell%20(2019)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Richard.Jewell.2019.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.5
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/The.Gentlemen.2019.1080p.BluRay.H264.AAC-RARBG/The.Gentlemen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.6
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/The%20Irishman%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.LT%5d/The.Irishman.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2019",109.7
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2019/Togo%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.LT%5d/Togo.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.1
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/Ghost%20Ship%20/www.TamilRockers.li%20-%20Ghost%20Ship%20(2002)%5b720p%20BDRip%20-%20%5bTamil%20+%20Hindi%20+%20Eng%5d%20x264%20-%20800MB%20-%20ESubs%5d.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.2
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/Hereditary%20(2018)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Hereditary.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.3
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/Insidious:%20The%20Last%20Key/www.TamilRockers.li%20-%20Insidious%20The%20Last%20Key%20(2018)%20%5b720p%20-%20BDRip%20-%20Original%20Audios%20-%20%5bTamil%20+%20Telugu%20+%20Hindi%20+%20English%5d%20-%20x264%20-%20AC3%205.1%20-%201.4GB%20-%20ESubs%5d.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.4
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/King%20Of%20Thieves%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/King.Of.Thieves.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.5
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/The.Nutcracker.and.the.Four.Realms.2018.UHD.1080p.BluRay.x264.DD5.1/The.Nutcracker.and.the.Four.Realms.2018.UHD.1080p.BluRay.x264.DD5.1.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2018",109.6
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2018/The%20Ballad%20Of%20Buster%20Scruggs%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/The.Ballad.Of.Buster.Scruggs.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.1
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Annabelle%20Creation%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/Annabelle.Creation.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.2
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Baby%20Driver/Baby%20Driver%20(2017)%20BluRay%201080p%20Dual%20Audio%20%5bHindi%20DD2.0%20+%20English%5d%20ESubs%20x264%20.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.3
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Crooked.House.2017.1080p.BluRay.H264.AAC-RARBG/Crooked.House.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.4
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Jungle/Jungle%20(2017)%201080p%20BluRay.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.5
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Marshall/Marshall%20(2017)%201080p%20BluRay%20x264.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.6
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/The.Insult/The.Insult.2017.720p.BluRay.x264.950MB-Pahe.in.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.7
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/The%20Greatest%20Showman/The%20Greatest%20Showman%20(2017)%20Dual%20ORG%201080p.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.8
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/The%20Wizard%20Of%20Lies%20(2017)%20%5bYTS.AG%5d/The.Wizard.Of.Lies.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2017",109.9
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2017/Wind%20River%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/Wind.River.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.1
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Department.Q.A.Conspiracy.Of.Faith%20(2016)%20Denmark%20/Department.Q.A.Conspiracy.Of.Faith%20(2016)%20Denmark%201080p.BluRay.x264.AAC5.1.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.2
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Don't%20Breathe%20(2016)%20%5b1080p%5d%20%5bYTS.AG%5d/Don't.Breathe.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.3
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Lights%20Out%20(2016)%20%5b1080p%5d%20%5bYTS.AG%5d/Lights.Out.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.4
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Ouija:%20Origin%20of%20Evil/Ouija.Origin.Of.Evil.2016.1080p.BluRay.5.1.Hindi-Eng.x264-%5bKatmovieHD.Tv%5d.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.5
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Snowden%20(2016)%20%5bYTS.AG%5d/Snowden.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.6
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/Snowden/Snowden.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.7
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/The%20Shallows%202016%201080p%20WEB-DL%20x264%20AC3-JYK/The%20Shallows%202016%201080p%20WEB-DL%20x264%20AC3-JYK.mkv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="HOLLYWOOD-movie-2016",109.8
+http://103.166.193.10/ftp/backup/Movie/Hollywood/2016/The%20Siege%20Of%20Jadotville%20(2016)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.LT%5d/The.Siege.Of.Jadotville.2016.720p.WEBRip.x264-%5bYTS.LT%5d.mp4
 
 
