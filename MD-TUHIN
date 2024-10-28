@@ -130,7 +130,7 @@ http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Yw1b.jpg",CAN BANGLA
-
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ixRj.jpg",JONMOBHUMI TV
 http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/live-orgin/montv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
@@ -151,7 +151,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
-
+http://103.211.103.151:8080//live/77250081146596/g3W9dzRh9O/415752.ts?token=ydHcUcb.Hdzbc.y.HdzUU.ydUcdfXazc.X.y.KW.ts.70ab538067daccd9a9b5b174a3591f58c371662cb0ff2097f5c93f8c9fcd3062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS HD-ASIA CUP
@@ -238,7 +238,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD(Flixhub)
-
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=14481&deviceMac=00:1A:79:C3:81:30
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD(Flixhub)
@@ -267,7 +267,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(Flixhub)
-
+http://103.211.103.39:8080//live/Hossainhh/Gz8MjZcr3c/415954.ts?token=yHUyfdH.dfaaz.y.HzHbd.ydUcHdbHUH.X.y.KW.ts.7dd773542275b84642a2ecfbae1f6bd053cc973b29166b9731946d981240fe83
 #EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(BD3)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",Sony TV(Flixhub)
@@ -303,17 +303,17 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD-Bangla: Star Jalsa Movies (4K)" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="BANGLADESH",BD-Bangla: Star Jalsa Movies (4K)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png",Zee Bangla Cinema(Flixhub)
-
+http://103.211.103.151:8080//live/Hossainhh/14536752507892/415741.ts?token=yHUyfdH.aydzd.y.aUfUa.ydUcdUbHbb.X.y.KW.ts.548d7c9db04b7f1edf43a87bf60269238a344c26bf9ba878f661ec10b9ecbf88
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",Colors Bangla Cinema(Flixhub)
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Hindi",&pictures-HD
-
+http://103.126.50.74:8080//live/Hossainhh/Gz8MjZcr3c/415990.ts?token=yHUyfdH.dybaH.y.ccXc.ydUcHdUXHc.X.y.KW.ts.ed5c2a68156f214e0823433f051de903bd2b3edc4385f90a2f6223b7d158117c
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI MOVIES",Zee Action
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI MOVIES",Ze Bollywood
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema HD(Flixhub)
-
+http://103.211.103.39:8080//live/Hossainhh/14536752507892/415987.ts?token=yHUyfdH.afcfy.y.ycHbb.ydUcdddfdX.X.y.KW.ts.1e55157a72d3d4738b3dfceaeb44903e73c42f4ff4e45b0daf4244c9719ef5c7
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema HD(BD)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold HD(Flixhub)
@@ -323,7 +323,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD 
-
+http://103.211.103.39:8080//live/77250081146596/g3W9dzRh9O/415972.ts?token=ydHcUcb.afXUX.y.afXXf.ydUcdyUcbX.X.y.KW.ts.c187e3c87e6f751bd9311f81d879f3ea3a81772a71db3bd2823dd6efd52e3f7c
 
 #EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="",SONY MAX 2
 
