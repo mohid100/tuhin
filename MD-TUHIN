@@ -8,7 +8,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
-
+http://103.211.103.151:8080//live/Hossainhh/Gz8MjZcr3c/415749.ts?token=yHUyfdH.aXbbc.y.Uffyb.ydUcHdfaHb.X.y.KW.ts.fd73a5d75b3b2ff59b807197f9466a9d4a0f9abd35a2d554afe1667b1d644a4f
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="* BDIX19",SOMOY TV
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="* BDIX19",CHANNEL 24
@@ -17,7 +17,7 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="* BDIX19",ATN NEWS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
-
+http://103.211.103.151:8080/live/Hossainhh/Gz8MjZcr3c/415765.m3u8?token=yHUyfdH.baUaU.y.Udaa.yczHbdcU.X.y.BD.m3u8.d35bc0caa2c1a3fb94ca4135dfd2b9eb9720582f8a7d3dc03b8418f3ab0bc672
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="* BDIX19", News 24 HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="* BDIX19",JAMUNA TV
@@ -32,7 +32,7 @@
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV World(BD2)
 
 #EXTINF:-1 oup-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",Sangsad TV(BD2)
-
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV CTG(BD2)
 
@@ -102,7 +102,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.ng",Anando TV(Jagobd)
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision(Jagobd)
-
+http://103.211.103.151:8080//live/Hossainhh/Gz8MjZcr3c/415759.ts?token=yHUyfdH.fybaf.y.fXaaU.ydUcHdayHd.X.y.KW.ts.d84873140f08333b89a47c1f001e7172f0b42ef70197a5b4e64be763827b2c59
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV(Jagobd)
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Plus(Jagobd)
@@ -112,13 +112,13 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",Nexus TV HD(Jagobd)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
-
+http://103.211.103.151:8080//live/Hossainhh/Gz8MjZcr3c/415767.ts?token=yHUyfdH.dyHHz.y.dyHcf.ydUcHdaafa.X.y.KW.ts.f57f9404385fb6bfe8df1fc6e3e99f9c493c401edfd4d6ae0adbe85b0559b16f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLA",NTV [BD]
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/23/13/6/logo-bijoy-tv-brand-clip-art-television-png-favpng-KL9WnQh4XXaaYPdnD9C6m4W6L.jpg" group-title="* BDIX19",Bijoy TV
-
+http://103.211.103.151:8080//live/Hossainhh/14536752507892/415783.ts?token=yHUyfdH.dXUHa.y.dXUfc.ydUcdHXacX.X.y.KW.ts.aa26b75673aff4121f5cab0d90efb9f5e19571b0dfe2506528a7e14fc548c5d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Yw1b.jpg",CAN BANGLA
@@ -158,7 +158,7 @@ http://103.211.103.151:8080//live/77250081146596/g3W9dzRh9O/415752.ts?token=ydHc
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",STAR SPORTS SELECT-2
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", STAR SPORTS 1 Hindi720p
-
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starsports3me="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",Star Sports 3 HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HkX-3Xsavnad2qydXFRElQoefbCIINOh_Q&usqp=CAU", group-title="T20 World Cup", T20-BPL
