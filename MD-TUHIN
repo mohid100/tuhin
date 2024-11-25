@@ -227,7 +227,7 @@ http://tv.cloudcdn.me/live.ts?channelId=116592&uid=14481&deviceMac=00:1A:79:C3:8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD
 http://xtv.ooo:8080/live/global/global/245898.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD(Flixhub)
-http://103.211.103.151:8080//live/Hossainhh/14536752507892/415739.ts?token=yHUyfdH.ccHUf.y.byHdz.ydUcdHXfff.X.y.KW.ts.5fef4ed59bf202062ec29ee8b6cfbaa70f7a85c81a7310a4bb6b146bf4bb012f
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png",Sun Bangla(Flixhub)
