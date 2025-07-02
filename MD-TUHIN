@@ -181,7 +181,6 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",EUROPSPORT HD
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sports-18.png"group-title="BANGLA",SPORTS 18
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunk_ulp2c8z29_ctaudio_cfm4s_ridp0aa0br96000_cs3011595312_mpd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1039708443.m3u8
