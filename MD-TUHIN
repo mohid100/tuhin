@@ -186,7 +186,8 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1039708443.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunk_ulp2c8z29_ctaudio_cfm4s_ridp0aa0br96000_cs3011595312_mpd.m4s?|drmScheme=clearkey
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunk_ulp2c8z29_ctaudio_cfm4s_ridp0aa0br96000_cs3011595312_mpd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",Geo Super HD
 
 #EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD*" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",:Astro Cricket HD*
