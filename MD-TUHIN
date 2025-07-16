@@ -338,7 +338,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/manifest/611d79b11b77e2
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png",MN+(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png",MNX HD(Flixhub)
-
+https://streams2.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
 #EXTINF:-1 group-title="BD3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",Lotus Macau(BD3)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 
@@ -347,13 +347,14 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png",AXN(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png",TLC(Flixhub)
-https://streams2.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="鈿? BANGLA ",HBO
 
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="BANGLA ",Bhojpuri-song
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/9x-jalwa.png"group-title="MUSIC",9x jalwa
-https://yuppparoriglin.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?ads.channel=4908&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1752607087~exp=1752628687~acl=!*/181224/smil:pravasi.smil/*!/payload/yupptvott_5_-1_774c1121013b4e69_BD_103.129.115.18_yuppfast_2_channel_200_-1/*~data=yupptvott_5_-1_774c1121013b4e69_BD_103.129.115.18_yuppfast_2_channel_200_-1~hmac=24e5b9d3b55002efa1f4bcae81f237e96aabca1fb74ee62a935dd2487b7fcb9b&ads.network
+
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/9xm.png"group-title="MUSIC",9XM
 https://yuppftalive.akamaized.net/080823/balleballe/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/zoomtv.png"group-title="MUSIC",Zoom
@@ -361,7 +362,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/mtv.png"group-title="MUSIC",MTV
 
 #EXTINF:-1 group-title="BD2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India(BD2)
-https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?ads.channel=3794&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1752607611~exp=1752629211~acl=!*/181224/smil:bogglebollywood.smil/*!/payload/yupptvott_5_-1_774c1121013b4e69_BD_103.129.115.18_yuppfast_2_channel_199_-1/*~data=yupptvott_5_-1_774c1121013b4e69_BD_103.129.115.18_yuppfast_2_channel_199_-1~hmac=5cf4c19ee870edf36463ff0fd4725c22b6094693fb44cce50d2044cf30692708&ads.network
+
 #EXTINF:-1 group-title="BD2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png",8X music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="TIVIMATE (FREEMIUM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",MTV HD (INDIA)
@@ -371,7 +372,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(Flixhub)
-https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?hdnts=exp=1753792351~acl=/live/F24_EN_HI_HLS/*~hmac=2626108ee2bc3901f079e2917916624428e791d394271b89b8e72a2054f39b2b&partner=watcho&hdnts=st=1752608573~exp=1752630173~acl=!*/live
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png",Discovery Science (Flixhub)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",Net Geo HD(Flixhub)
@@ -385,6 +386,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",Animal Planet(Flixhub)
 
 #EXTINF:-1 group-title="BD3" tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV(BD3)
-
+https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?hdnts=exp=1753792351~acl=/live/F24_EN_HI_HLS/*~hmac=2626108ee2bc3901f079e2917916624428e791d394271b89b8e72a2054f39b2b&partner=watcho&hdnts=st=1752608573~exp=1752630173~acl=!*/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UCUfyLtHR71Qw
