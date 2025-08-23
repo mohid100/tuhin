@@ -146,7 +146,7 @@ https://tvsen5.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET", Star Sports 2HD
-
+https://tvsen5.aynaott.com/xSZ52snq4z3N/index.m3u8
 #EXTINF:-1 group-title="Skyfeed" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN SPORTS (4K UHD)",Star Sports Select 1 (4K)
