@@ -8,7 +8,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="* BDIX19",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="* BDIX19",CHANNEL 24
@@ -23,7 +23,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="* BDIX19", News 24 HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="* BDIX19",JAMUNA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV National(BD2)
@@ -62,7 +62,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 
 #EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="",NAGORIK TV
-https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
+
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla(Jagobd)
 
@@ -129,7 +129,7 @@ https://smart.bengaldigital.live/Zee-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ELBh.png",MEGHNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-
+https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1xMvZVFmdD7lK8iExslZvH276vaWM0VaBA&usqp=CAU", group-title="T20 World Cup", GTV HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladeshi",-Gazi TV-ASIA CUP
@@ -399,7 +399,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnt3nOya1TXtMPGS2nPTvsLNfU6FmovYtRQ&usqp=CAU", group-title=" BANGLA ", Sangeet Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
-https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png",Discovery Science (Flixhub)
