@@ -131,7 +131,7 @@ https://smart.bengaldigital.live/Zee-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ELBh.png",MEGHNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1xMvZVFmdD7lK8iExslZvH276vaWM0VaBA&usqp=CAU", group-title="T20 World Cup", GTV HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladeshi",-Gazi TV-ASIA CUP
@@ -266,9 +266,8 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(Flixhub)
-https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+
 #EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(BD3)
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",Sony TV(Flixhub)
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sony.png"group-title="HINDI",SONY HD
@@ -439,7 +438,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UC
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD uttar-prodes
 
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD trepora
-
+https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD jharkhand
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD harina
