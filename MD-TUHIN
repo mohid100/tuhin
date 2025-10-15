@@ -158,7 +158,7 @@ https://cdn-4.pishow.tv/live/1499/1499_2.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU" group-title="BANGLA ",Colors-Bangla
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD-audio_108035_ben=108000-video=2297600.m3u8
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD(Flixhub)
@@ -208,11 +208,10 @@ https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex HD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex BOLLYWOOD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex SUPERHIT
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit-audio_98835_hin=98800-video=1680400.m3u8
 
 
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD
@@ -237,11 +236,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/colors.png"group-title="HINDI",Colors
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",ColorsRishtey
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",ColorsMarathiHD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",ColorsKannadaHD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And-tv
 
