@@ -144,11 +144,12 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",Aakaash Aath
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+https://cdn-4.pishow.tv/live/969/master.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",Amar-DGITAL
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
-
+https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",ORANGE BNGLA TV
 https://cdn-4.pishow.tv/live/1499/1499_2.m3u8  
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
@@ -171,8 +172,8 @@ https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/enterr10.png"group-title="BANGLA",Enterr10 Bangla-3
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla=2
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.rongeentv
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
@@ -285,8 +286,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",filamchi-BHOJPURI-CNIMA
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE" tvg-logo="https://tv.efiberbd.net/logo/din.png",Dhinchaak 2 HD
-
+#EXTINF:-1 group-title="HINDI MOVIE" tvg-logo="https://tv.efiberbd.net/logo/din.png",kan23-israel tv
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_1.2k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Othe BD Server",BBo-HD
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png",UTV Action(Flixhub)
@@ -340,7 +341,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1 group-title="TIVIMATE (FREEMIUM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",MTV HD (INDIA)
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnt3nOya1TXtMPGS2nPTvsLNfU6FmovYtRQ&usqp=CAU", group-title=" BANGLA ", Sangeet Bangla
-
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(Flixhub)
@@ -424,7 +425,7 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PTV SPORTS HD
 
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",EUROPSPORT HD
-
+https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sports-18.png"group-title="BANGLA",SPORTS 18
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET",TEN SPORTS
