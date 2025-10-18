@@ -1,6 +1,6 @@
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sekOPL6.png", JagoNews24 Tv
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
@@ -177,6 +177,26 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO KAHANI HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO ENTERTAINEMNT
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GREEN ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | ARY DIGITAL
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | BOL ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | EXPRESS ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | AAJ_ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | SAB ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | MixTV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | MUN TV
+https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN (4K UHD)",STAR BHARAT (4K)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold ROMANCE HD
@@ -211,9 +231,7 @@ https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex SUPERHIT
 
 
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM SITARAY
+
 
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
 
