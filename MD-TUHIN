@@ -23,6 +23,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV National(BD2)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-carton
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV World(Jagobd)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="* Bangla",BTV 
@@ -112,11 +118,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ixRj.jpg",JONMOBHUMI TV
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-carton
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-cinema
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
 
