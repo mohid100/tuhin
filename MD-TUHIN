@@ -307,8 +307,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Othe BD Server",utvaction
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png",UTV Action(Flixhub)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-ZBz8Kz-j7X5kay5WEZN
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg",UTV MOVIES(Flixhub)
+
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg",UTV MOVIES HD(BD2)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies(Flixhub)
@@ -384,10 +385,11 @@ https://cdn-1.pishow.tv/live/10/master.m3u8
 
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",Willow Cricket HD
-
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS HD-ASIA CUP
@@ -442,6 +444,7 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD*" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",:Astro Cricket HD*
 
 #EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET" Willow Xtra
+
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD
 
 #EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket*" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="CRICKET",SuperSportCricket*
