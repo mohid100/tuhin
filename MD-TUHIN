@@ -108,7 +108,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla(Flixhub)
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",ORANGE BNGLA TV
 https://cdn-4.pishow.tv/live/1499/1499_2.m3u8  
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",Aakaash Aath
@@ -187,9 +186,12 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN (4K UHD)",STAR BHARAT (4K)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold ROMANCE HD
-
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold HD(Flixhub)
-#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",GOLDMINES MOVIE
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",ALLTIMEMOVIES
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="ext",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/tracks-v1a1/mono.m3u8
@@ -202,9 +204,9 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="ext",JOO MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex HD
-https://mumt03.tangotv.in/BFLIX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex BOLLYWOOD
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="2022 BD Server", Colors Cineplex SUPERHIT
 
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
