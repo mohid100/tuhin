@@ -106,9 +106,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/23/13/6/logo-bijoy-tv-brand-clip-art-television-png-favpng-KL9WnQh4XXaaYPdnD9C6m4W6L.jpg" group-title="* BDIX19",Bijoy TV
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla(Flixhub)
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",ORANGE BNGLA TV
+https://cdn-4.pishow.tv/live/1499/1499_2.m3u8  
 
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",Aakaash Aath
@@ -129,14 +129,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JCCF.jpg",NANDAN TV
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ELBh.png",MEGHNA TV
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="", ilm-tv
-https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",jio-cinema
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="", HINDI-MOVIE
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="", HINDI-MOVIE-2
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="", BNGLA-MOVIE
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",shah tv
@@ -145,8 +137,6 @@ https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DANGAL TV
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",NAZARA TV
-https://epiconvh.akamaized.net/live/nazara/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | ARY DIGITAL
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
@@ -171,19 +161,12 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD-VAROT
 https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-carton
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Z-B-cinema
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg",Bangla Talkies
 
 #EXTINF:-1 group-title="BD2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla(BD2)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",ORANGE BNGLA TV
-https://cdn-4.pishow.tv/live/1499/1499_2.m3u8  
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU" group-title="BANGLA ",Colors-Bangla
 
@@ -207,10 +190,6 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold HD(Flixhub)
 
-#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 group-title="BD2" tvg-logo="ext",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="ext",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",BHOJPURI-CNIMA
@@ -339,7 +318,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png",Discovery Science (Flixhub)
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",Net Geo HD(Flixhub)
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png",Nat Geo Wild(Flixhub)
