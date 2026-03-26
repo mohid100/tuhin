@@ -113,7 +113,7 @@ https://cdn-4.pishow.tv/live/1499/1499_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",Aakaash Aath
-
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",rupasy bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
@@ -189,6 +189,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold ROMANCE HD
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold HD(Flixhub)
+
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",GOLDMINES MOVIE
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",FVA SERIES
@@ -254,15 +255,15 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI MOVIES",Ze Bollywood
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema HD(Flixhub)
-
+http://103.99.249.139/zeecinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema HD(BD)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",54.Star Gold HD
-
+http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD 
-
+http://103.99.249.139/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="",SONY MAX 2
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png",And Pictures(Flixhub)
