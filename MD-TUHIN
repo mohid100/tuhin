@@ -45,7 +45,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",13.Desh Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="BD IPTV",34.CCN Bangla
 
@@ -113,7 +113,7 @@ https://cdn-4.pishow.tv/live/1499/1499_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",Aakaash Aath
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",rupasy bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
@@ -195,7 +195,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/b4u-movies.png"group-title="HINDI",FVA SERIES
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="ext",B4U Kadak
-https://mumt02.tangotv.in/B4UKADAK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BD2" tvg-logo="ext",B4U Bhojpuri
 https://cdn-1.pishow.tv/live/235/235_2.m3u8
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",BHOJPURI-CNIMA
