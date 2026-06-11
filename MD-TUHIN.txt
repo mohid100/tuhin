@@ -583,7 +583,6 @@ https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1780236747&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Channels",Sangeet Bangla
 
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e15930189f48df6d429c269bd1edea99" group-title="Kids",PBS Kids
 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -599,3 +598,18 @@ https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1780236747&u=78be6644-0a65-48ec
 https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1780236747&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eeca6490b1f2f1452507c341e61d58ad
 
 
+#EXTINF:-1 ,History HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,BBC Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 ,Discovery Hindi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="Documentary",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,Discovery Kids
+http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:-1 ,ENTER 10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
