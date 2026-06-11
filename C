@@ -94,7 +94,8 @@ https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1780236740&u=78be6644-0a65-4
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Bangla",Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8?e=1780236741&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=318beec50e50e09a42beefe4a9b32802
-
+#EXTINF:-1 ,chnel-1
+https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
 #EXTINF:-1 ,NAGORIK
 http://198.195.239.50:8095/nagorik/index.m3u8
 
