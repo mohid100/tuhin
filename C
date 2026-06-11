@@ -153,7 +153,10 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD(Flixhub)
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD
-
+#EXTINF:-1 hum_sitaray
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
+#EXTINF:-1 hum_masala
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
@@ -165,7 +168,8 @@ http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/colors.png"group-title="HINDI",Colors
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And-tv
-
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sony.png"group-title="HINDI",SONY-sab
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 ,Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 ,Big Magic
@@ -190,7 +194,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies(BD)
 http://198.195.239.50:8095/StarMovies/index.m3u8
-
+#EXTINF:-1 ,DISCOVERY---
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 ,Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
