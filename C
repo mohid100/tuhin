@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News",ABC News
-https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1780236741&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=533781339486ff061e6dfe9cf7dbe78e
+
 
 #EXTINF:-1 ,Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
