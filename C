@@ -215,9 +215,8 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS HD
 http://198.195.239.50:8095/DiscoveryKids/index.m3u8
 #EXTINF:-1 ,TSports-fifa-worldCUP
-http://198.195.239.50:8095/Tsports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD FIFA-worldCUP
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d21c22ce44b9db48801d25118dafb8e4
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports FIFA-worldCUP
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=76f74dfc4bdff676d7ce6ad4070d1761
@@ -249,20 +248,13 @@ http://198.195.239.50:8095/Eurosport/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HkX-3Xsavnad2qydXFRElQoefbCIINOh_Q&usqp=CAU", group-title="T20 World Cup", T20-BPL
-https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+
 #EXTINF:-1 ,IPL 2026
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PSL 2026
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e6973e27bac4e3063c130f77e1dce32a
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="Religious",MADANI TV
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1780236748&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e374a3e372de52b917adfdc5ff1326d2
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1" group-title="Channels",R Plus
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5a7f80e9417b452051a0e75db768e796" group-title="Channels",R Plus Gold
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/fea79ac5193dd9fb80aa1996f2adc1e2" group-title="Channels",Zee 24 Ghanta
@@ -328,8 +320,6 @@ http#://tvsen7.aynaott.com/hbo2/index.m3u8?e=1780236746&u=78be6644-0a65-48ec-81a
 EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="English",\t USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1780236746&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=775271f29e1d579a3aa13db98f658dc7s
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6" group-title="English",Fox business
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1780236745&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=44860b1a817e8762a0e10f4bf68105af
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42" group-title="English",Fox 5
 https://tvsen6.aynaott.com/fox5/index.m3u8?e=1780236745&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40fca7988131c73fb0300e8871f71268
