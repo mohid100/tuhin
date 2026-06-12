@@ -159,6 +159,12 @@ http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sony.png"group-title="HINDI",SONY-sab
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 ,Zee Anmol TV
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",epic-BHARAT
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD national
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD-PANJAB
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 ,Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
@@ -238,12 +244,8 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6" group-title="Hindi",Republic TV Bharat
 
-
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Hindi",Green TV HD
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 ,Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
 #EXTINF:-1 ,Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
