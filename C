@@ -121,7 +121,8 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/AakaashAath.png"group-title="INBANGLA",DD-bngla
 https://cdn-4.pishow.tv/live/37/37_2.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",rupasy bangla
-
+#EXTINF:-1 ,ZEE BNGLA
+https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
@@ -152,6 +153,16 @@ https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_360p/chunks.
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 ,Tara TV
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE Tv
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 ,STAR PLUS
+https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,AND TV
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 ,ZEE ONE
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 ,HUM SITARY
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596" group-title="Urdhu",Geo ENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596" group-title="Urdhu",hum sist
