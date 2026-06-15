@@ -155,7 +155,7 @@ https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE Tv
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 ,STAR PLUS
-https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,AND TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 ,ZEE ONE
