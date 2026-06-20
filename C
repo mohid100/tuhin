@@ -1,5 +1,4 @@
-#EXTINF:-1 ,FIFA WORLD CUP
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sekOPL6.png", JagoNews24 Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD 
@@ -187,8 +186,8 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 ,DISCOVERY---
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
-
-
+#EXTINF:-1 ,FIFA WORLD CUP
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
 
