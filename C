@@ -108,7 +108,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,STAR JALSHA
-https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 ,ZEE BNGLA
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 ,sananda tv
