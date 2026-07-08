@@ -97,6 +97,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 ,HUM TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/hum.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR JALSHA
 https://xfireflix.my.id/mac.php?id=908682.m3u8
 #EXTINF:-1 ,ZEE BNGLA
@@ -211,8 +213,9 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup-2
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
-
+https://monirul.bro.bd/btv.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 3
 https://cdn-tt.pages.dev/ch2.m3u8
 
