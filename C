@@ -150,19 +150,19 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 group-title="Bangla" tvg-id="DDBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 ,Tara TV
-https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",rupasy bangla
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnt3nOya1TXtMPGS2nPTvsLNfU6FmovYtRQ&usqp=CAU", group-title=" BANGLA ", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
+
 
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="", madani
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANDD-bngla
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Yw1b.jpg",CAN BANGLA
 #EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg" group-title="HINDI",Sony Sab
-https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="HINDI",Star Plus
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="HINDI",Sony entertainment tv
@@ -179,7 +179,7 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",shah tv
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ShemarooTV.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg",ENT | Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8 
+
 
 #EXTINF:-1 ,SHEMAROO-JOSH
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
@@ -197,7 +197,7 @@ https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_360p/chunks.
 #EXTINF:-1 ,EPICBHOJPURI
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 ,MONORONJON BHOJPURI
-https://cdn-4.pishow.tv/live/1474/master.m3u8
+
 
 #EXTINF:-1 group-title="India" tvg-id="DDNational.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",ENT | DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -208,24 +208,24 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="DOCUMENTARY",Discovery Bangla
-http://myxpanel.pro:80/live/Ander1/Ander1/694020.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi",&PICTURES
-https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi",Zee Cinema
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX sD
-https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
 #EXTINF:-1 group-title="India" tvg-id="B4UMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",MOV | B4U Movies India
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",MOV | Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+
 #EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",MOV | Goldmines Movies2
-https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
+
 #EXTINF:-1 group-title="India" tvg-id="GoldminesMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",MOV | Goldmines Movies3
-https://cdn-2.pishow.tv/live/1460/1460_2.m3u8
+
 #EXTINF:-1 group-title="India" tvg-id="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png",MOV | South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 group-title="India" tvg-id="YRFMusic.in" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png",MU | YRF Music
@@ -255,7 +255,7 @@ https://mediapackage-ms-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Sparkle Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20250107T025804SQUARE.png",EN | Sparkle Movies
 https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8?ads.wurl_channel=1019&ads.wurl_name=SparkleMovies&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Movies" tvg-id="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",EN | Superrix HD
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Educational" tvg-id="CGTNDocumentary.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
